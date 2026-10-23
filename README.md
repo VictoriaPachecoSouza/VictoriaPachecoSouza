@@ -1,4 +1,3 @@
-# Victo-ria-Pacheco-Souza
 <!--
   README de perfil — Victória Pacheco Souza
   Identidade visual: preto + azul-claro
