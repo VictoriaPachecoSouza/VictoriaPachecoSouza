@@ -233,25 +233,23 @@ Projetos acadêmicos e pessoais que fazem parte da minha jornada em Desenvolvime
 
 <div align="center">
 
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VictoriaPachecoSouza&bg_color=0d1117&color=c9d1d9&line=9bdcff&point=ffffff&area=true&area_color=9bdcff&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub"
-    alt="Gráfico de atividade do GitHub"
-  />
-
+ <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=VictoriaPachecoSouza&theme=github-compact"
+  alt="Gráfico de atividade do GitHub"
+  width="100%"
+/>
 </div>
-
 ---
 
 ## `06` — GitHub Trophies
 
 <div align="center">
 
-  <img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=VictoriaPachecoSouza&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4"
-    alt="Troféus do GitHub"
-  />
+ <img
+  src="https://github-profile-trophy.vercel.app/?username=VictoriaPachecoSouza&theme=algolia&no-frame=true&no-bg=true&column=4"
+  alt="Troféus do GitHub"
+  width="100%"
+/>
 
 </div>
 
@@ -261,26 +259,18 @@ Projetos acadêmicos e pessoais que fazem parte da minha jornada em Desenvolvime
 
 <div align="center">
 
-  <picture>
-   
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/VictoriaPachecoSouza/VictoriaPachecoSouza/output/github-contribution-grid-snake-dark.svg"
-    />
-<source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/VictoriaPachecoSouza/VictoriaPachecoSouza/output/github-contribution-grid-snake.svg"
-    />
-
-   <img
-      alt="Snake percorrendo minhas contribuições no GitHub"
-      src="https://raw.githubusercontent.com/VictoriaPachecoSouza/VictoriaPachecoSouza/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-
-  </picture>
-
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VictoriaPachecoSouza/Victo-ria-Pacheco-Souza/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VictoriaPachecoSouza/Victo-ria-Pacheco-Souza/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/VictoriaPachecoSouza/Victo-ria-Pacheco-Souza/output/github-contribution-grid-snake.svg"
+    alt="Snake das minhas contribuições"
+    width="100%"
+  />
+</picture>
