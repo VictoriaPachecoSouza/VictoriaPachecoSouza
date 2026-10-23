@@ -232,28 +232,25 @@ Projetos acadêmicos e pessoais que fazem parte da minha jornada em Desenvolvime
 ## `05` — Atividade
 
 <div align="center">
-
- <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=VictoriaPachecoSouza&theme=github-compact"
-  alt="Gráfico de atividade do GitHub"
-  width="100%"
-/>
+  <a href="https://github.com/VictoriaPachecoSouza">
+    <img
+      src="https://ghchart.rshah.org/9bdcff/VictoriaPachecoSouza"
+      alt="Gráfico de contribuições de Victória Pacheco Souza"
+      width="100%"
+    />
+  </a>
 </div>
----
 
 ## `06` — GitHub Trophies
 
 <div align="center">
-
- <img
-  src="https://github-profile-trophy.vercel.app/?username=VictoriaPachecoSouza&theme=algolia&no-frame=true&no-bg=true&column=4"
-  alt="Troféus do GitHub"
-  width="100%"
-/>
-
+  <a href="https://github.com/VictoriaPachecoSouza?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explorar%20meus%20projetos-GitHub-9bdcff?style=for-the-badge&logo=github&logoColor=0d1117"
+      alt="Explorar meus projetos no GitHub"
+    />
+  </a>
 </div>
-
----
 
 ## `07` — Contribution Snake
 
